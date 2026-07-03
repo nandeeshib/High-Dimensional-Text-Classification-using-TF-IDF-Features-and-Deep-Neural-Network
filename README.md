@@ -81,7 +81,7 @@ pip install numpy scikit-learn tensorflow jupyter matplotlib
    ```
 3. Open `TF-IDF_Model.ipynb` and run all cells.
 
-## ⚠️ Notes
+##  Notes
 
 - Converting a 50,000-feature sparse TF-IDF matrix into a dense array can be highly memory-intensive.
 - The dataset is downloaded automatically on the first run, requiring internet access.
